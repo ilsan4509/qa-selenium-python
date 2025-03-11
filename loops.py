@@ -2,7 +2,7 @@
 
 # if else #
 greeting = "Good Morning"
-#Indentation is important in Python (들여쓰기 중요)
+#Indentation is important in Python
 print("1. if else - greeting")
 if greeting == "Morning":
     print("Condition Matches")

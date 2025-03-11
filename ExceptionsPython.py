@@ -1,4 +1,3 @@
-#(조건이 충족되지 않을 경우, 명시적으로 오류를 만들 수 있는 두가지 방법)
 #Two ways to explicitly raise an error when a condition is not met
 
 #raise Exception, assert
@@ -29,3 +28,10 @@ try:
 
 except Exception as e: #Python error message
     print(e)
+
+# Reason for using finally
+# If failures keep occurring before reaching finally,
+# the junk data created for automation may not be properly cleaned up.
+# Therefore, all cookies must be deleted.
+finally:
+    print("cleaning up resources")
