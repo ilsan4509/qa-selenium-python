@@ -12,7 +12,7 @@ driver = webdriver.Chrome(service = service_obj)
 driver.get("https://rahulshettyacademy.com/dropdownsPractise/")
 
 driver.find_element(By.ID,"autosuggest").send_keys("ind")
-#time.sleep(2) # Wait for the search suggestion dropdown (dynamic text)
+time.sleep(2) # Wait for the search suggestion dropdown (dynamic text)
 
 countries = driver.find_elements(By.CSS_SELECTOR, "li[class='ui-menu-item'] a")
 print(len(countries))
