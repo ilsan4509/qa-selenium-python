@@ -1,5 +1,4 @@
 #Two ways to explicitly raise an error when a condition is not met
-
 #raise Exception, assert
 
 ItemsInCart = 0
@@ -12,7 +11,6 @@ if ItemsInCart != 2:
 
 assert(ItemsInCart == 0)
 
-
 #try, catch
 try:
     with open('wrong_name.txt', 'r') as reader:
@@ -20,7 +18,6 @@ try:
 
 except:
     print("Some how i reached this block because there is failure in try block")
-
 
 try:
     with open('wrong_name.txt', 'r') as reader:
