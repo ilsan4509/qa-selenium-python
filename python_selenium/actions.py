@@ -27,4 +27,4 @@ action.move_to_element(driver.find_element(By.ID, "mousehover")).perform()
 action.context_click(driver.find_element(By.LINK_TEXT, "Top")).perform()
 action.move_to_element(driver.find_element(By.LINK_TEXT, "Reload")).click().perform()
 
-input("Press Enter to close the browser...")
+# input("Press Enter to close the browser...")

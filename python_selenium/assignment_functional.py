@@ -63,4 +63,4 @@ discountedAmount = float(driver.find_element(By.CSS_SELECTOR, ".discountAmt").te
 print(discountedAmount)
 assert  totalAmount > discountedAmount
 
-input("Press Enter to close the browser...")
+# input("Press Enter to close the browser...")

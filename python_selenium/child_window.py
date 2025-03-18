@@ -24,4 +24,4 @@ driver.switch_to.window(window_opened[0])
 print(driver.find_element(By.TAG_NAME, "h3").text)
 assert "Opening a new window" == driver.find_element(By.TAG_NAME, "h3").text
 
-input("Press Enter to close the browser...")
+# input("Press Enter to close the browser...")

@@ -35,4 +35,4 @@ success_text = driver.find_element(By.CLASS_NAME, "alert-success").text
 assert "Success! Thank you!" in success_text
 driver.close()
 
-input("Press Enter to close the browser...")
+# input("Press Enter to close the browser...")

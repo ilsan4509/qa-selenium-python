@@ -52,4 +52,4 @@ driver.find_element(By.CSS_SELECTOR, ".promoBtn").click()
 wait.until(expected_conditions.presence_of_all_elements_located((By.CSS_SELECTOR, ".promoInfo")))
 
 print(driver.find_element(By.CLASS_NAME, "promoInfo").text)
-input("Press Enter to close the browser...")
+# input("Press Enter to close the browser...")

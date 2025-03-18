@@ -17,4 +17,4 @@ driver.get("https://rahulshettyacademy.com/angularpractice/")
 # driver.maximize_window() # instead of --start-maximized
 print(driver.title)
 
-input("Press Enter to close the browser...")
+# input("Press Enter to close the browser...")
