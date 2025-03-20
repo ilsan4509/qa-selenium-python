@@ -15,3 +15,8 @@ def test_first_program(setup):
 @pytest.mark.xfailv  # when need not report
 def test_second_geet_creditcard():
     print("Meow")
+
+
+def test_cross_browser(cross_browser):
+    print(cross_browser[1])
+

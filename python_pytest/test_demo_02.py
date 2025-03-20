@@ -9,6 +9,10 @@
 # @pytest.mark.xfail
 # fixtures are used as setup and tear down methods for test cases - conftest file to
 #generalize fixture and make it available to all rest cases
+# datadrvien and parameterization can be done with return statements in tuple format
+# when you define fixture scope to class only, it will run once before class is initiated and at the end
+
+
 import pytest
 
 @pytest.mark.smoke  #py.test -m smoke -v -s
