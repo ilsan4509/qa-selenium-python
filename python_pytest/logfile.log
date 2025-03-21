@@ -1,0 +1,24 @@
+2025-03-21 23:25:31,996 :INFO : test_logging : Information statement
+2025-03-21 23:25:31,996 :WARNING : test_logging : Something is in warning mode
+2025-03-21 23:25:31,996 :ERROR : test_logging : A major error has happend
+2025-03-21 23:25:31,996 :CRITICAL : test_logging : Critical issue
+2025-03-21 23:27:45,084 :INFO : test_logging : Information statement
+2025-03-21 23:27:45,085 :WARNING : test_logging : Something is in warning mode
+2025-03-21 23:27:45,085 :ERROR : test_logging : A major error has happend
+2025-03-21 23:27:45,085 :CRITICAL : test_logging : Critical issue
+2025-03-21 23:37:04,973 :INFO : test_logging : Information statement
+2025-03-21 23:37:04,973 :WARNING : test_logging : Something is in warning mode
+2025-03-21 23:37:04,980 :ERROR : test_logging : A major error has happend
+2025-03-21 23:37:04,981 :CRITICAL : test_logging : Critical issue
+2025-03-21 23:38:56,788 :INFO : python_pytest.base_class : Seonggon
+2025-03-21 23:38:56,788 :INFO : python_pytest.base_class : google.com
+2025-03-21 23:43:26,503 :INFO : python_pytest.base_class : Seonggon
+2025-03-21 23:43:26,503 :INFO : python_pytest.base_class : google.com
+2025-03-21 23:44:51,850 :INFO : test_editProfile : Seonggon
+2025-03-21 23:44:51,850 :INFO : test_editProfile : google.com
+2025-03-21 23:50:01,417 :INFO : test_editProfile : Seonggon
+2025-03-21 23:50:01,417 :INFO : test_editProfile : google.com
+2025-03-21 23:50:01,435 :INFO : python_pytest.test_logging : Information statement
+2025-03-21 23:50:01,435 :WARNING : python_pytest.test_logging : Something is in warning mode
+2025-03-21 23:50:01,435 :ERROR : python_pytest.test_logging : A major error has happend
+2025-03-21 23:50:01,435 :CRITICAL : python_pytest.test_logging : Critical issue
