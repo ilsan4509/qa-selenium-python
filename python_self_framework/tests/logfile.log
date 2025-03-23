@@ -1,0 +1,41 @@
+2025-03-23 20:30:43,360 :INFO : test_e2e : getting all the titles
+2025-03-23 20:30:43,408 :INFO : test_e2e : iphone X
+2025-03-23 20:30:43,425 :INFO : test_e2e : Samsung Note 8
+2025-03-23 20:30:43,438 :INFO : test_e2e : Nokia Edge
+2025-03-23 20:30:43,448 :INFO : test_e2e : Blackberry
+2025-03-23 20:30:44,171 :INFO : test_e2e : Entering country name as ind
+2025-03-23 20:30:51,252 :INFO : test_e2e : Text received from application is ¡¿
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-23 20:33:47,283 :INFO : test_e2e : getting all the titles
+2025-03-23 20:33:47,345 :INFO : test_e2e : iphone X
+2025-03-23 20:33:47,361 :INFO : test_e2e : Samsung Note 8
+2025-03-23 20:33:47,374 :INFO : test_e2e : Nokia Edge
+2025-03-23 20:33:47,390 :INFO : test_e2e : Blackberry
+2025-03-23 20:33:47,915 :INFO : test_e2e : Entering country name as ind
+2025-03-23 20:33:54,276 :INFO : test_e2e : Text received from application is ¡¿
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-23 20:33:58,979 :INFO : test_form_submission : first name is Jayden
+2025-03-23 20:34:00,580 :INFO : test_form_submission : first name is Lala
+2025-03-23 20:34:00,580 :INFO : test_form_submission : first name is Lala
+2025-03-23 20:37:00,244 :INFO : test_e2e : getting all the titles
+2025-03-23 20:37:00,303 :INFO : test_e2e : iphone X
+2025-03-23 20:37:00,318 :INFO : test_e2e : Samsung Note 8
+2025-03-23 20:37:00,330 :INFO : test_e2e : Nokia Edge
+2025-03-23 20:37:00,349 :INFO : test_e2e : Blackberry
+2025-03-23 20:37:00,875 :INFO : test_e2e : Entering country name as ind
+2025-03-23 20:37:07,193 :INFO : test_e2e : Text received from application is ¡¿
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-23 20:37:11,530 :INFO : test_form_submission : first name is Jayden
+2025-03-23 20:37:13,037 :INFO : test_form_submission : first name is Lala
+2025-03-23 20:37:13,037 :INFO : test_form_submission : first name is Lala
+2025-03-23 20:48:05,446 :INFO : test_e2e : getting all the titles
+2025-03-23 20:48:05,508 :INFO : test_e2e : iphone X
+2025-03-23 20:48:05,528 :INFO : test_e2e : Samsung Note 8
+2025-03-23 20:48:05,546 :INFO : test_e2e : Nokia Edge
+2025-03-23 20:48:05,563 :INFO : test_e2e : Blackberry
+2025-03-23 20:48:06,121 :INFO : test_e2e : Entering country name as ind
+2025-03-23 20:48:12,422 :INFO : test_e2e : Text received from application is ¡¿
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-03-23 20:48:16,836 :INFO : test_form_submission : first name is Jayden
+2025-03-23 20:48:18,390 :INFO : test_form_submission : first name is Lala
+2025-03-23 20:48:18,390 :INFO : test_form_submission : first name is Lala
