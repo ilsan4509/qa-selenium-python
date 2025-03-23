@@ -33,7 +33,7 @@ class TestOne(BaseClass):
         success_text = self.driver.find_element(By.CLASS_NAME, "alert-success").text
         log.info("Text received from application is " + success_text)
 
-        assert "Success! test Thank you!" in success_text
+        assert "Success! Thank you!" in success_text
 
 
 
