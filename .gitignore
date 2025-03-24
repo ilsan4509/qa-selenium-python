@@ -1,6 +1,7 @@
 # Ignore Python virtual environment folders
 .venv/
 venv/
+env/
 
 # Ignore PyCharm project settings folder
 .idea/
@@ -29,3 +30,14 @@ Thumbs.db
 *.webp
 *.svg
 *.ico
+
+# Ignore logs and debugging output
+logs/
+*.log
+*.out
+*.err
+nohup.out
+
+# Ignore report files
+report.html
+reports.html
