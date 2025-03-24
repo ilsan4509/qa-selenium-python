@@ -1,3 +1,5 @@
+import os
+
 import openpyxl
 
 
@@ -6,7 +8,10 @@ class HomeData:
 
     @staticmethod
     def get_test_data(test_case_name):
-        book = openpyxl.load_workbook("PythonDemo.xlsx")
+        file_dir = os.path.dirname(__file__)
+        file_path = os.path.join(file_dir, "PythonDemo.xlsx")
+        book = openpyxl.load_workbook(file_path)
+        # book = openpyxl.load_workbook("PythonDemo.xlsx")
         sheet = book.active
         Dict = {}
         for i in range(1,
